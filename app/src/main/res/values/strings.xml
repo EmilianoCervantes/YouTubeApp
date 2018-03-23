@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouTubeApp</string>
+    <string name="idvideo">Agrega id de video</string>
+    <string name="add">Agregar</string>
+    <string name="viewhistory">Ver Historial</string>
+    <string name="greetings">¡Bienvenido!</string>
+</resources>

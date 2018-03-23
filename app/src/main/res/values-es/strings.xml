@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTubeApp</string>
+    <string name="greetings">¡Que onda!</string>
+    <string name="idvideo">Pon un id de video</string>
+    <string name="add">Añadir</string>
+    <string name="viewhistory">Ver Historial</string>
+</resources>
